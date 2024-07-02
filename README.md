@@ -1,7 +1,6 @@
 ## Flight Delay Prediction
 # Execution steps:
-1. Upload the following dataset to the google drive:
-    [https://www.kaggle.com/datasets/giovamata/airlinedelaycauses](url)
+1. Upload the following dataset to the google drive [link](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
 2. Open the following Colab link and mount the google drive. Then, provide the
 dataset location in the cell where spark reads the csv data.
   [  https://colab.research.google.com/drive/1W-6uqRekqods8xcOpH8_OO_68t7SoS7q?usp=sharing](url)
